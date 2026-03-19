@@ -306,7 +306,7 @@
     <message>
         <location filename="../ui/AlertRuleDetail.ui" line="168"/>
         <source>Log Status</source>
-        <translation></translation>
+        <translation>Protokollstatus</translation>
     </message>
     <message>
         <location filename="../ui/AlertRuleDetail.ui" line="401"/>
@@ -346,7 +346,7 @@
     <message>
         <location filename="../ui/AlertRuleDetail.ui" line="421"/>
         <source>Special Programs</source>
-        <translation>Special</translation>
+        <translation>Sonderprogramme</translation>
     </message>
     <message>
         <location filename="../ui/AlertRuleDetail.ui" line="471"/>
@@ -434,7 +434,7 @@
     <message>
         <location filename="../ui/AlertRuleDetail.ui" line="733"/>
         <source>Spotter</source>
-        <translation></translation>
+        <translation>Beobachter</translation>
     </message>
     <message>
         <location filename="../ui/AlertRuleDetail.ui" line="222"/>
@@ -713,22 +713,22 @@
     <message>
         <location filename="../ui/AwardsDialog.cpp" line="47"/>
         <source>Gridsquare 2-Chars</source>
-        <translation type="unfinished"></translation>
+        <translation>Locator 2 Zeichen</translation>
     </message>
     <message>
         <location filename="../ui/AwardsDialog.cpp" line="48"/>
         <source>Gridsquare 4-Chars</source>
-        <translation type="unfinished"></translation>
+        <translation>Locator 4 Zeichen</translation>
     </message>
     <message>
         <location filename="../ui/AwardsDialog.cpp" line="49"/>
         <source>Gridsquare 6-Chars</source>
-        <translation type="unfinished"></translation>
+        <translation>Locator 6 Zeichen</translation>
     </message>
     <message>
         <location filename="../ui/AwardsDialog.cpp" line="50"/>
         <source>US Counties</source>
-        <translation>Countys der USA</translation>
+        <translation>US-Bundesstaaten</translation>
     </message>
     <message>
         <location filename="../ui/AwardsDialog.cpp" line="51"/>
